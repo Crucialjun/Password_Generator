@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="how_many_characters_should_the_password_be">How many characters should the password be?</string>
+    <string name="your_generated_password_is">Your Generated password is</string>
+</resources>
